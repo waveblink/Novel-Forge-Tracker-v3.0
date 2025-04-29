@@ -1,0 +1,49 @@
+{
+    "chapters": [
+      {
+        "id": 1,
+        "title": "The Whispering Glade",
+        "status": "Draft",
+        "word_count": 3500,
+        "previous_word_count": 3450,
+        "priority": "🟥 High",
+        "deadline": "2025-05-15",
+        "last_edited": "2025-04-28T10:00:00"
+      },
+      {
+        "id": 2,
+        "title": "Market Day Mayhem",
+        "status": "Not Started",
+        "word_count": 0,
+         "previous_word_count": 0,
+        "priority": "🟧 Medium",
+        "deadline": "2025-05-20",
+        "last_edited": null
+      },
+      {
+        "id": 3,
+        "title": "Secrets in the Spire",
+        "status": "Line-Edits",
+        "word_count": 4210,
+         "previous_word_count": 4210,
+        "priority": "🟨 Low",
+        "deadline": "2025-05-25",
+        "last_edited": "2025-04-29T09:15:00"
+      }
+    ],
+    "editing_passes": [
+        {"id": 1, "focus_area": "Pacing", "description": "Check the opening hook - does it grab fast enough?", "chapter_id": 1, "completed": false},
+        {"id": 2, "focus_area": "World-building", "description": "Ensure the magic system's cost is clear in Ch 3.", "chapter_id": 3, "completed": true},
+        {"id": 3, "focus_area": "Prose Sparkle", "description": "Sharpen dialogue verbs throughout.", "chapter_id": null, "completed": false}
+    ],
+    "todos": [
+        {"id": 1, "task": "Review character arc for Kaela", "completed": false},
+        {"id": 2, "task": "Fact-check herbalism details", "completed": true},
+        {"id": 3, "task": "Draft query letter", "completed": false}
+    ],
+    "metadata": {
+        "project_start_word_count": 7710,
+        "target_word_count": 90000,
+        "dark_mode": false
+    }
+  }
